@@ -10,7 +10,7 @@ const projects = [
     cardImage: "assets/images/project-page/CurrencyConverter.png",
     description: "Space Currency Converter is a cool project i made with Javascript",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "http://91.228.126.112/StarsCurrencyConverter/",
+    Previewlink: "https://bn-jo.github.io/Stars-Currency-converter/",
     Githublink: "https://github.com/bn-jo/Stars-Currency-converter.git",
   },
   {
@@ -18,17 +18,17 @@ const projects = [
     cardImage: "assets/images/jokegenerator.png",
     description: "Joke teller . This app will make you smile",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "http://91.228.126.112/jokegenerator/",
+    Previewlink: "https://bn-jo.github.io/JokeGenerator/",
     Githublink: "https://github.com/bn-jo/JokeGenerator.git",
   },
- {
-    title: "Pong Game",
-    cardImage: "assets/images/project-page/PongGame.png",
-    description: "Flappy bird game built using React.js",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
-  } 
+// {
+ //   title: "Pong Game",
+   // cardImage: "assets/images/project-page/PongGame.png",
+    //description: "Flappy bird game built using React.js",
+    //tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    //Previewlink: "",
+    //Githublink: "",
+  //} 
   // {
   //   title: "Calculator",
   //   cardImage: "assets/images/project-page/exercise.jpg",
