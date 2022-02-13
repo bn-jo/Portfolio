@@ -20,8 +20,8 @@ const projects = [
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://bn-jo.github.io/JokeGenerator/",
     Githublink: "https://github.com/bn-jo/JokeGenerator.git",
-  },
-// {
+  }
+// ,{
  //   title: "Pong Game",
    // cardImage: "assets/images/project-page/PongGame.png",
     //description: "Flappy bird game built using React.js",
