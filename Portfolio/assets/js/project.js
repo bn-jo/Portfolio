@@ -24,7 +24,7 @@ const projects = [
   ,
    {
     title: "Pollack Machine",
-    cardImage: "assets/images/project-page/Pollock_GIF_Optimized.gif",
+    cardImage: "assets/images/Pollock_GIF_Optimized.gif",
     description: "Poker game built using typescript.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
      Previewlink: "pollack-machine.vercel.app",
