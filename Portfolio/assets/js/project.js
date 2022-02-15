@@ -21,6 +21,15 @@ const projects = [
     Previewlink: "https://bn-jo.github.io/JokeGenerator/",
     Githublink: "https://github.com/bn-jo/JokeGenerator.git",
   }
+  
+  / {
+    title: "Pollack Machine",
+    cardImage: "assets/images/project-page/Pollock_GIF_Optimized.gif",
+    description: "Poker game built using typescript.",
+    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
+     Previewlink: "pollack-machine.vercel.app",
+    Githublink: "https://github.com/bn-jo/PollackMachine.git",
+ },
 // ,{
  //   title: "Pong Game",
    // cardImage: "assets/images/project-page/PongGame.png",
@@ -45,14 +54,7 @@ const projects = [
   //   Previewlink: "",
   //   Githublink: "",
   // },
-  // {
-  //   title: "Polak generator",
-  //   cardImage: "assets/images/project-page/poker.jpg",
-  //   description: "Poker game built using typescript.",
-  //   tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
-  //   Previewlink: "",
-  //   Githublink: "",
-  // },
+  /
   // {
   //   title: "Hangman Game",
   //   cardImage: "assets/images/project-page/tic-tac-toe.png",
