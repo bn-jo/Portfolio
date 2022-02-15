@@ -29,7 +29,7 @@ const projects = [
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
      Previewlink: "pollack-machine.vercel.app",
     Githublink: "https://github.com/bn-jo/PollackMachine.git",
- },
+ }
 // ,{
  //   title: "Pong Game",
    // cardImage: "assets/images/project-page/PongGame.png",
