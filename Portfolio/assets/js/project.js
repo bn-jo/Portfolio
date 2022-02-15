@@ -20,8 +20,7 @@ const projects = [
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://bn-jo.github.io/JokeGenerator/",
     Githublink: "https://github.com/bn-jo/JokeGenerator.git",
-  }
-  ,
+  },
    {
     title: "Pollack Machine",
     cardImage: "assets/images/Pollock_GIF_Optimized.gif",
@@ -54,7 +53,7 @@ const projects = [
   //   Previewlink: "",
   //   Githublink: "",
   // },
-  /
+  
   // {
   //   title: "Hangman Game",
   //   cardImage: "assets/images/project-page/tic-tac-toe.png",
