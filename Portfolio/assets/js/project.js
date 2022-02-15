@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/bn-jo/JokeGenerator.git",
   }
   
-  / {
+   {
     title: "Pollack Machine",
     cardImage: "assets/images/project-page/Pollock_GIF_Optimized.gif",
     description: "Poker game built using typescript.",
