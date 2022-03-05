@@ -34,7 +34,7 @@ const projects = [
     cardImage: "assets/images/Artboard45.png",
     description: "Build simple calculator with Java",
     tagimg: "assets/images/Artboard45.png",
-    Previewlink: "https://bn-jo.github.io/JavaGuide/",
+    Previewlink: "https://drive.google.com/file/d/1WLNpK80F7YyVK-TLgmb6jpp0jdFxaHwt/view?usp=sharing",
     Githublink: "https://github.com/bn-jo/JavaGuide.git",
   }
   //https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png
