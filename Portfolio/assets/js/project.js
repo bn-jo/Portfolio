@@ -30,9 +30,9 @@ const projects = [
     Githublink: "https://github.com/bn-jo/PollackMachine.git",
  },
     {
-    title: "Java Simple Calculator Guide",
+    title: "Java Calculator Guide",
     cardImage: "assets/images/Artboard45.png",
-    description: "Build simple calculator with Java (Technical wrting useing Dita )",
+    description: "Build simple calculator with Java",
     tagimg: "https://bn-jo.github.io/JavaGuide/",
     Previewlink: "",
     Githublink: "https://github.com/bn-jo/JavaGuide.git",
