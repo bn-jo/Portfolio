@@ -28,7 +28,15 @@ const projects = [
     tagimg: "assets/images/Pollock_GIF_Optimized.gif",
      Previewlink: "https://pollack-machine.vercel.app",
     Githublink: "https://github.com/bn-jo/PollackMachine.git",
- }
+ },
+    {
+    title: "Java Simple Calculator Guide",
+    cardImage: "assets/images/Artboard 45.png",
+    description: "Build simple calculator with Java (Technical wrting useing Dita )",
+    tagimg: "https://bn-jo.github.io/JavaGuide/",
+    Previewlink: "",
+    Githublink: "https://github.com/bn-jo/JavaGuide.git",
+  }
   //https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png
 // ,{
  //   title: "Pong Game",
@@ -38,14 +46,7 @@ const projects = [
     //Previewlink: "",
     //Githublink: "",
   //} 
-  // {
-  //   title: "Calculator",
-  //   cardImage: "assets/images/project-page/exercise.jpg",
-  //   description: "Exercise tracker built using basic redux.",
-  //   tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-  //   Previewlink: "",
-  //   Githublink: "",
-  // },
+
   // {
   //   title: "Rock paper scissors",
   //   cardImage: "assets/images/project-page/recipe.jpg",
