@@ -31,7 +31,7 @@ const projects = [
  },
     {
     title: "Java Simple Calculator Guide",
-    cardImage: "assets/images/Artboard 45.png",
+    cardImage: "assets/images/Artboard45.png",
     description: "Build simple calculator with Java (Technical wrting useing Dita )",
     tagimg: "https://bn-jo.github.io/JavaGuide/",
     Previewlink: "",
