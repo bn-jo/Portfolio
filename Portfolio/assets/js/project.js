@@ -51,7 +51,7 @@ const projects = [
     title: "Presentation",
     cardImage: "assets/images/pre.jpg",
     description: "Recipe Ingredient Parser built using JavaScript.",
-tagname:""
+tagimg:"assets/images/pre.jpg",
   Previewlink: "https://bn-jo.github.io/Presentation/",
     Githublink: "https://github.com/bn-jo/Presentation",
   }
