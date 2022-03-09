@@ -222,15 +222,15 @@ a:hover {
 }
 
 .card .title-div {
-    width: 100%;
-    height: 35%;
+    width: 70%;
+    height: 20%;
     margin: 0;
 }
 
 .card .title {
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
     margin-top: 0em;
-    font-size: 0.65em;
+    font-size: 0.45em;
 }
 
 @media(min-width: 411px) {
