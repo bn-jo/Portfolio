@@ -48,7 +48,7 @@ const projects = [{
 
     {
         title: "Presentation",
-        cardImage: "/assets/images/pre.png",
+        cardImage: "assets/images/pre.png",
         description: "Recipe Ingredient Parser built using JavaScript.",
         tagimg: "assets/images/pre.jpg",
         Previewlink: "https://bn-jo.github.io/Presentation/",
