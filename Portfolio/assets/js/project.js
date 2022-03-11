@@ -49,11 +49,20 @@ const projects = [{
     {
         title: "Presentation",
         cardImage: "assets/images/pre.png",
-        description: "Recipe Ingredient Parser built using JavaScript.",
+        description: "Presentation useing CSS.",
         tagimg: "assets/images/pre.jpg",
         Previewlink: "https://bn-jo.github.io/Presentation/",
         Githublink: "https://github.com/bn-jo/Presentation",
+    },
+                      {
+        title: "Finance Website",
+        cardImage: "assets/images/bnjos.png",
+        description: "Finance Website with CSS JS.",
+        tagimg: "assets/images/bnjos.jpg",
+        Previewlink: "https://bn-jo.github.io/BnjosFinance/",
+        Githublink: "https://github.com/bn-jo/BnjosFinance",
     }
+
 
 
 ];
