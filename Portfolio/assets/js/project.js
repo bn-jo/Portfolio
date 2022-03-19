@@ -14,7 +14,7 @@ const projects = [{
     },
     {
         title: "Joke Generator",
-        cardImage: "assets/images/jokegenerator.png",
+        cardImage: "https://s1.gifyu.com/images/Robot.gif",
         description: "Joke teller . This app will make you smile",
         tagimg: "assets/images/jokegenerator.png",
         Previewlink: "https://bn-jo.github.io/JokeGenerator/",
