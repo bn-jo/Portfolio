@@ -22,13 +22,18 @@ html[data-theme='dark'] {
 
 html {
     overflow-x: hidden;
-    max-width: 120%;
     height: auto;
 }
 
 body {
+    display: block;
     color: var(--text);
     background-color: var(--bg);
+}
+
+.alert {
+    text-align: center;
+    font-size: 16px;
 }
 
 .projects_head {
@@ -109,13 +114,13 @@ body[light-mode=dark] .light-mode-button span:nth-child(2) {
     .dropdown {
         position: absolute;
         padding-right: 3.5rem;
-         margin: 30px;
+        margin: 30px;
     }
     .godown {
         z-index: 1;
         padding-top: 15rem;
         padding-left: 3.3rem;
-         margin: 30px;
+        margin: 30px;
     }
 }
 
@@ -127,7 +132,7 @@ body[light-mode=dark] .light-mode-button span:nth-child(2) {
 
 .img-header {
     width: 90%;
-    height: 90%;
+    height: 70%;
 }
 
 a:hover {
@@ -158,7 +163,7 @@ a:hover {
 
 @media(min-width: 60rem) {
     .row {
-        margin-top: 0em;
+        margin-top: 1em;
     }
     .card {
         width: 43%;
@@ -215,7 +220,7 @@ a:hover {
 
 @media(min-width: 60rem) {
     .card .data {
-        height: 100%;
+        height: 60%;
     }
 }
 
@@ -232,6 +237,7 @@ a:hover {
 }
 
 .card .title {
+    color: #ee29ee;
     padding-bottom: 1rem;
     margin-top: 0em;
     font-size: 0.35em;
@@ -269,7 +275,7 @@ a:hover {
 }
 
 .card .text {
-    height: 60px;
+    height: 4px;
     font-size: 0.5em;
     margin: 0;
 }
@@ -294,13 +300,13 @@ a:hover {
 
 @media(min-width: 554px) {
     .card .text {
-        font-size: 1.2em;
+        font-size: 1em;
     }
 }
 
 @media(min-width: 60rem) {
     .card .text {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 

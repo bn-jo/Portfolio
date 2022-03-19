@@ -48,13 +48,13 @@ const projects = [{
 
     {
         title: "Presentation",
-        cardImage: "assets/images/pre.png",
+        cardImage: "assets/images/pres1.png",
         description: "Presentation useing CSS.",
         tagimg: "assets/images/pre.jpg",
         Previewlink: "https://bn-jo.github.io/Presentation/",
         Githublink: "https://github.com/bn-jo/Presentation",
     },
-                      {
+    {
         title: "Finance Website",
         cardImage: "assets/images/bnjos.png",
         description: "Finance Website with CSS JS.",
