@@ -12,6 +12,16 @@ const projects = [{
         Previewlink: "https://bn-jo.github.io/Stars-Currency-converter/",
         Githublink: "https://github.com/bn-jo/Stars-Currency-converter.git",
     },
+                  
+                   {
+        title: "Snake Game",
+        cardImage: "assets/images/snake.png",
+        description: "Snake Game with JS.",
+        tagimg: "assets/images/snakes.jpg",
+        Previewlink: "https://bn-jo.github.io/miniSnake/",
+        Githublink: "https://bn-jo.github.io/miniSnake/",
+    },
+                  
     {
         title: "Joke Generator",
         cardImage: "https://s1.gifyu.com/images/Robot.gif",
