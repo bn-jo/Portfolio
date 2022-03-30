@@ -11,17 +11,15 @@ const projects = [{
         tagimg: "assets/images/project-page/CurrencyConverter.png",
         Previewlink: "https://bn-jo.github.io/Stars-Currency-converter/",
         Githublink: "https://github.com/bn-jo/Stars-Currency-converter.git",
-    },
-                  
-                   {
+    },           
+     {
         title: "Snake Game",
         cardImage: "assets/images/snake.png",
         description: "Snake Game with JS.",
         tagimg: "assets/images/snakes.jpg",
         Previewlink: "https://bn-jo.github.io/miniSnake/",
-        Githublink: "https://bn-jo.github.io/miniSnake/",
-    },
-                  
+        Githublink: "https://github.com/bn-jo/miniSnake/",
+    },           
     {
         title: "Joke Generator",
         cardImage: "https://s1.gifyu.com/images/Robot.gif",
@@ -48,7 +46,7 @@ const projects = [{
     },
     {
         title: "Animeted Navigation bar",
-        cardImage: "assets/images/Artboard45.png",
+        cardImage: "assets/images/anav.png",
         description: "Animeted Nav with CSS and JS",
         tagimg: "assets/images/anav.png",
         Previewlink: "https://bn-jo.github.io/animetedNav/",
