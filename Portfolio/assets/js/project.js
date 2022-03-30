@@ -45,9 +45,16 @@ const projects = [{
         tagimg: "assets/images/Artboard45.png",
         Previewlink: "https://drive.google.com/file/d/1WLNpK80F7YyVK-TLgmb6jpp0jdFxaHwt/view?usp=sharing",
         Githublink: "https://github.com/bn-jo/JavaGuide.git",
-    }
-    //https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png
-    , {
+    },
+    {
+        title: "Animeted Navigation bar",
+        cardImage: "assets/images/Artboard45.png",
+        description: "Animeted Nav with CSS and JS",
+        tagimg: "assets/images/anav.png",
+        Previewlink: "https://bn-jo.github.io/animetedNav/",
+        Githublink: "https://github.com/bn-jo/animetedNav.git",
+    },
+    {
         title: "Hamburger Menu",
         cardImage: "assets/images/showcase.jpg",
         description: "Hamburger menu build with CSS",
@@ -55,7 +62,6 @@ const projects = [{
         Previewlink: "https://bn-jo.github.io/HamburgerMenu/",
         Githublink: "https://github.com/bn-jo/HamburgerMenu",
     },
-
     {
         title: "Presentation",
         cardImage: "assets/images/pres1.png",
