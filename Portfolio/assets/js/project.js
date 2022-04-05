@@ -3,8 +3,20 @@ AOS.init();
 
 const projectcards = document.querySelector(".projectcards");
 
-// Array of object for projects
+// Array of object for projects      https://bn-jo.github.io/QuizApp/
 const projects = [{
+        
+        title: "Quiz",
+        cardImage: "assets/images/project-page/quiz.png",
+        description: "Quiz App",
+        tagimg: "assets/images/project-page/quiz.png",
+        Previewlink: "https://bn-jo.github.io/QuizApp/",
+        Githublink: "https://github.com/bn-jo/QuizApp",
+    },
+        
+        
+        
+        
         title: "Currency Converter",
         cardImage: "assets/images/project-page/CurrencyConverter.png",
         description: "Space Currency Converter is a cool project i made with Javascript",
