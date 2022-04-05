@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [{
         
         title: "Quiz",
-        cardImage: "assets/images/project-page/quiz.png",
+        cardImage: "assets/images/quiz.png",
         description: "Quiz App",
         tagimg: "assets/images/project-page/quiz.png",
         Previewlink: "https://bn-jo.github.io/QuizApp/",
