@@ -73,12 +73,12 @@ const projects = [{
         Githublink: "https://github.com/bn-jo/HamburgerMenu",
     },
     {
-        title: "Presentation",
-        cardImage: "assets/images/pres1.png",
-        description: "Presentation useing CSS.",
+        title: "Drink Water App",
+        cardImage: "assets/images/drink.png",
+        description: "Drink Water App useing CSS and JS.",
         tagimg: "assets/images/pre.jpg",
-        Previewlink: "https://bn-jo.github.io/Presentation/",
-        Githublink: "https://github.com/bn-jo/Presentation",
+        Previewlink: "https://bn-jo.github.io/drinkWaterApp/",
+        Githublink: "https://github.com/bn-jo/drinkWaterApp",
     },
     {
         title: "Finance Website",
