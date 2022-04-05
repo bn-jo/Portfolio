@@ -396,7 +396,7 @@ ul {
 }
 
 .social-icon svg:hover {
-    fill: #fff;
+    fill: rgb(255, 24, 142);
 }
 
 .project-box {
