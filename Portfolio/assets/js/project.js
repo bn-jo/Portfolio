@@ -15,7 +15,7 @@ const projects = [{
     },
         
         
-        
+                  {
         
         title: "Currency Converter",
         cardImage: "assets/images/project-page/CurrencyConverter.png",
