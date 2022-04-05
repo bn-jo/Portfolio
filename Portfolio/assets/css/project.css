@@ -368,14 +368,15 @@ input[type="text"] {
 }
 
 .skill-card .data {
-    color: #fff;
+    margin-top: 40px;
+    color: rgb(255, 24, 142);
     background-color: rgba(0, 0, 0, 0.55);
     transform: translateY(calc(60px + 4em));
     padding: 5px;
 }
 
 .skill-card .title a {
-    color: #fff;
+    color: rgb(255, 24, 142);
 }
 
 
@@ -509,6 +510,7 @@ ul {
         font-size: 1rem;
     }
     .skill-card {
+        
         width: 450px;
         border: 0;
         border-radius: 10px;
