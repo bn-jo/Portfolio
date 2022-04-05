@@ -368,7 +368,7 @@ input[type="text"] {
 }
 
 .skill-card .data {
-    margin-top: 40px;
+  
     color: rgb(255, 24, 142);
     background-color: rgba(0, 0, 0, 0.55);
     transform: translateY(calc(60px + 4em));
