@@ -3,7 +3,7 @@ AOS.init();
 
 const projectcards = document.querySelector(".projectcards");
 
-// Array of object for projects      https://bn-jo.github.io/QuizApp/
+// Array of object for projects      https://bn-jo.github.io/QuizApp/ https://bn-jo.github.io/DrawingApp/
 const projects = [{
         
         title: "Quiz",
@@ -12,6 +12,15 @@ const projects = [{
         tagimg: "assets/images/project-page/quiz.png",
         Previewlink: "https://bn-jo.github.io/QuizApp/",
         Githublink: "https://github.com/bn-jo/QuizApp",
+    },
+                  {
+        
+        title: "Drawing App",
+        cardImage: "assets/images/project-page/draw.png",
+        description: "Fun drawing application",
+        tagimg: "assets/images/project-page/draw.png",
+        Previewlink: "https://bn-jo.github.io/DrawingApp/",
+        Githublink: "https://github.com/bn-jo/DrawingApp",
     },
         
         
