@@ -22,7 +22,7 @@ const projects = [{
         Previewlink: "https://bn-jo.github.io/DrawingApp/",
         Githublink: "https://github.com/bn-jo/DrawingApp",
     },
-                                    {
+      {
         
         title: "Password Generator",
         cardImage: "assets/images/project-page/password.png",
