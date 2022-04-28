@@ -22,6 +22,15 @@ const projects = [{
         Previewlink: "https://bn-jo.github.io/DrawingApp/",
         Githublink: "https://github.com/bn-jo/DrawingApp",
     },
+                                    {
+        
+        title: "Password Generator",
+        cardImage: "assets/images/project-page/password.png",
+        description: "password generator application",
+        tagimg: "assets/images/project-page/password.png",
+        Previewlink: "https://bn-jo.github.io/passwordGenerator/",
+        Githublink: "https://github.com/bn-jo/passwordGenerator",
+    },
         
         
                   {
@@ -31,7 +40,7 @@ const projects = [{
         description: "Space Currency Converter is a cool project i made with Javascript",
         tagimg: "assets/images/project-page/CurrencyConverter.png",
         Previewlink: "https://bn-jo.github.io/Stars-Currency-converter/",
-        Githublink: "https://github.com/bn-jo/Stars-Currency-converter.git",
+        Githublink: "https://github.com/bn-jo/passwordGenerator",
     },           
      {
         title: "Snake Game",
